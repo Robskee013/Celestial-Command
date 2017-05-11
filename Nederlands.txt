@@ -695,49 +695,49 @@ Verbruikt extra energie voor geblokkeerde eenheid van de schade.
 
 Grootte van beschermende veld kan worden gewijzigd. Het energieverbruik is afhankelijk van de grootte.
 #618# Dit apparaat is in staat te stralen directionele straal van gravitatie golven die op een specifiek object in een specifieke richting.
-#619# Als actieve, sleept u een van de objecten in de witte cirkel met behulp van de linker muis knop om te bewegen in elke richting.
-#620# Laat voor de bouw van een schip met draaibare onderdelen.
-#621# Laat voor de bouw van een schip met beweegbare delen.
-#622# Chemische motor die zorgt voor stuwkracht als gevolg van de verbranding van zuurstof en waterstof in de verbrandingskamer en de uitlaat verbrandingsproducten ons uit het pijpje.
+#619# Indien actief, sleep een object in de witte cirkel met de linker muisknop om het in iedere richting te bewegen.
+#620# Gebruikt voor de bouw van een schip met draaibare onderdelen.
+#621# Gebruikt voor de bouw van een schip met beweegbare onderdelen.
+#622# Chemische motor die zorgt voor stuwkracht als gevolg van de verbranding van zuurstof en waterstof in de verbrandingskamer en de uitlaat verbrandingsproducten ons uit het mondstuk.
 
-Om te kunnen werken, moet worden aangesloten op brandstof tanks met zuurstof en waterstof.
+Om te kunnen werken, moet het worden aangesloten op brandstoftanks met zuurstof en waterstof.
 
-Waterstof als brandstof en zuurstof als oxidator.
-#623# Laat om te draaien van een schip met behulp van alleen een energie.
-#624# Deze motor vereist de xenon gas en stroom. Het voordeel ten opzichte van de chemische motoren is dat het vereist een zeer kleine hoeveelheid brandstof, maar heeft een veel lagere snelheid. Als een resultaat, het is in staat om continu te werken tijdens lange tijd
-#625# Eenvoudige en goedkope manoeuvreren motor die duwt onder druk waterstof.
+Waterstof vereist als brandstof en zuurstof als oxidator.
+#623# Laat het schip draaien met enkel het gebruik van energie.
+#624# Deze motor vereist Xenon gas en elektriciteit. Het voordeel vergeleken met chemische motoren is dat het verbruik van brandstof veel lager is, en dat de motor over lange tijd kan werken. Daar in tegen is de stuwkracht veel lager.
+#625# Simpele en goedkope motor die stuwkracht opwekt met waterstof onder druk.
 
-Om te kunnen werken, moet worden aangesloten op de brandstoftank bevat een waterstof.
-#626# Een apparaat dat in staat is om te verdraaien van een ruimte rondom een schip die het mogelijk maakt om te reizen met de snelheid veel sneller dan de snelheid van het licht.
+Om te kunnen werken moet het apparaat aangesloten worden op een brandstof en waterstof tank.
+#626# Een apparaat dat in staat is de ruimte rondom een schip te verdraaien, die het mogelijk maakt om met een grotere snelheid dan het licht te reizen.
 
 Het kan gebruikt worden binnen een sterren systeem voor instant reizen van het ene punt naar het andere.
-#627# Beweegt elk voorwerp dat zich in een warp-veld
+#627# Beweegt elk voorwerp dat zich in een warp veld bevind.
 
 Grootte van warp-veld kan worden gewijzigd
 
 Het energieverbruik is afhankelijk van de grootte van een warp-veld
 
-Als warp-veld zullen botsen met iets, zal worden gedestabiliseerd en springen zal worden afgebroken.
+Als warp velden botsen met iets, zal het worden gedestabiliseerd en word de sprong afgebroken.
 #628# Moet aangesloten worden op power-opslag
 #629# Moet worden aangesloten op opslag met raketten
 #630# Moet worden aangesloten op opslag met munitie
-#631# in Staat om de lancering van zelf-geleide torpedo.
+#631# In staat zelf-geleidende torpedo af te vuren.
 Torpedo zal worden gericht in het object die is geselecteerd tijdens het starten.
 Als er geen object is geselecteerd, torpedo zal worden gelanceerd in vrije modus.
-#632# in Staat om de lancering van ongeleide raketten met een hoge mate van brand
-#633# Bevat de energie die opgewekt wordt door de reactoren of zonnepanelen. Een apparaat dat vereist dat de kracht moet worden aangesloten op het
-#634# Het control center van een schip, waarin de commando-brug, de belangrijkste computer en de toewijzing van middelen hub
+#632# In staat om ongeleide rakkete met een hoge mate van vuren, af te vuren.
+#633# Bevat de energie die opgewekt wordt door de reactoren of zonnepanelen. Elk apparaat dat stroom vereist moet hier op aangesloten worden.
+#634# Het controle centrum van een schip, waar in de commando brug, de belangrijkste computer en de "toewijzing van middelen" hub
 #635# Bouwen punten
 #636# Volgende niveau
-#637# Vereist reputatie
-#638# Glow effect
-#639# Show background
+#637# Vereiste reputatie
+#638# Gloed effect
+#639# Toon achtergrond
 
-#640# Black space background
-#641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
+#640# Zwarte ruimte achtergrond
+#641# Debug modus
+#642# In debug modus, als je een error tegen komt, krijg je een verzoek ons een rapport te sturen. Zo help je ons de bugs een stuk sneller te repareren.
 #643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
+#644# Huidige productie
+#645# Maximale productie
+#646# Ster geblokeerd door
+#647# Klein zonnepaneel 
